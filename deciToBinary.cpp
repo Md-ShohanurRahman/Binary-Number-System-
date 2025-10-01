@@ -16,5 +16,6 @@ void deciToBinary(int deci){
 int main (){
     deciToBinary(2);
     deciToBinary(3);
+    deciToBinary(88);
     return 0;
 }

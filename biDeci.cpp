@@ -15,5 +15,6 @@ void binaryToDecimal(int bin){
 int main (){
     binaryToDecimal(101);
     binaryToDecimal(10);
+    binaryToDecimal(111111);
     return 0;
 }
